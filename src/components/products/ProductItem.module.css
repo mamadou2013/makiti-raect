@@ -1,0 +1,17 @@
+.cardItem{
+    border: none;
+     width: 15rem;
+     color: red;
+}
+.cardImage{
+    height: 140px;
+}
+.price{
+    margin-top: -4px;
+    margin-bottom: -2px;
+}
+.description .date{
+    color: #1791d2;
+    margin-top: -4px;
+    margin-bottom: -2px;
+}
